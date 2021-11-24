@@ -1,5 +1,5 @@
-let initialSheep = 15
-let initialWolves = 5
+let initialSheep = 50
+let initialWolves = 25
 
 let sheep = []
 let wolves = []
@@ -9,8 +9,8 @@ let tile_size = 10
 let grow_time = 400
 
 let fr = 60
-let w = 500
-let h = 500
+let w = 600
+let h = 400
 
 let sheepPopulation = []
 let wolvesPopulation = []
